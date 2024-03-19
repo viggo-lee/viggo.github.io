@@ -1,3 +1,3 @@
 # ddfly web
 
-[message to me](https://github.com/176807694/176807694.github.io/issues)
+[message to me](https://github.com/viggo-lee/viggo.github.io/issues)
